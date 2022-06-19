@@ -66,4 +66,7 @@ https://ctan.math.illinois.edu/macros/latex/required/amsmath/amsldoc.pdf
 
 https://ctan.org/pkg/amsthm
 
+### aomart
+https://ctan.org/pkg/aomart
+
 
