@@ -37,4 +37,20 @@ https://en.wikipedia.org/wiki/Symbolic_link
 
 
 
+## Packages
+
+Documentation is available in links:
+
+### amsbok
+
+https://ctan.org/pkg/amsbook
+
+### amsmath
+
+https://ctan.org/pkg/amsmath
+
+### amsthm
+
+https://ctan.org/pkg/amsthm
+
 
