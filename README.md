@@ -13,6 +13,9 @@ http://www.bibtex.org/Using/
 Examples:
 IntelliJ , Sublime, VIM etc.
 
+### LaTex w/ Vim
+https://github.com/lervag/vimtex#alternatives
+
 ### LaTex w/ IntelliJ
 
 #### TeXify Plugin
