@@ -27,9 +27,13 @@ https://www.ias.edu/math/computing/faq/local-latex-style-files
 
 ### (texmf) Local Directory 
 
+Depending on your OS and TeX distrubtion, there exists a texmf folder in which TeX can acess to read custom .cls and .sty files. 
+
 ## MacOS instructions
 
-1. Create Symlink 
+https://en.wikipedia.org/wiki/Symbolic_link
+1. Create Symlink
+- ` ln -s "$(pwd)"/texmf ~/Libarary/ `
 
 
 
