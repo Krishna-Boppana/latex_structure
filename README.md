@@ -33,7 +33,7 @@ Depending on your OS and TeX distrubtion, there exists a texmf folder in which T
 
 https://en.wikipedia.org/wiki/Symbolic_link
 1. Create Symlink
-- ` ln -s "$(pwd)"/texmf ~/Libarary/ `
+- ` ln -s "$(pwd)"/texmf ~/Library/ `
 
 
 
