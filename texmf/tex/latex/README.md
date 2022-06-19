@@ -25,9 +25,14 @@ https://ctan.org/pkg/geometry
 
 https://mirror.math.princeton.edu/pub/CTAN/macros/latex/contrib/geometry/geometry.pdf
 
+
+### Indenting
+https://www.overleaf.com/learn/latex/Articles/How_to_change_paragraph_spacing_in_LaTeX
+
 Can create different format packages based on personal document specifications.
 
 ### format_0.sty
+
 
 
 

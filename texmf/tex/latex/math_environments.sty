@@ -6,15 +6,24 @@
 
 \usepackage{amsthm}
 
-% THEOREMSTYLES (Visual Enviorment Structures
+% THEOREMSTYLES (Visual Environment Structures)
+
 
 %Theorem with break
+% https://tex.stackexchange.com/questions/43966/how-to-make-the-optional-title-of-a-theorem-bold-with-amsthm
 
-\newtheoremstyle{break}%
-{}{}%
-{\itshape}{}%
-{\bfseries}{}% % Note that final punctuation is omitted.
-{\newline}{}
+\newtheoremstyle{break}% name
+  {}											% Space above, empty = `usual value'
+  {}											%Space below
+  {\itshape}									%Body font
+  {}											%Indent amount (empty = no indent, \parindent = para indent)
+  {\bfseries}									%Thm head font
+  {}											%Punctuation after thm head
+  {\newline}									%Space after thm head: \newline = linebreak
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}}			%Thm head spec
+
+
+\theoremstyle{break}
 
 % Setting Theorem Style
 
