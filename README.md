@@ -4,6 +4,10 @@
 
 https://www.tug.org/
 
+## BIBTEX
+
+http://www.bibtex.org/Using/
+
 ## Editors
 
 Examples:
