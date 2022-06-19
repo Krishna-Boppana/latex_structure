@@ -49,6 +49,12 @@ https://ctan.org/pkg/amsbook
 
 https://ctan.org/pkg/amsmath
 
+https://ctan.math.illinois.edu/macros/latex/required/amsmath/amsldoc.pdf
+(pg 20 useful resource on math operators)
+
+#### Useful Commands
+1. Declare
+
 ### amsthm
 
 https://ctan.org/pkg/amsthm
