@@ -12,6 +12,13 @@ https://mirrors.concertpass.com/tex-archive/macros/latex/contrib/subfiles/subfil
 
 ## Formatting
 
+Resources
+
+1. https://en.wikibooks.org/wiki/LaTeX/Document_Structure
+2. https://en.wikibooks.org/wiki/LaTeX/Text_Formatting
+3. https://en.wikibooks.org/wiki/LaTeX/Paragraph_Formatting
+
+
 Can create different format packages based on personal document specifications.
 
 ### format_0.sty
