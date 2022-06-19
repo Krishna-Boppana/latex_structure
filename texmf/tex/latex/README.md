@@ -18,11 +18,16 @@ Resources
 2. https://en.wikibooks.org/wiki/LaTeX/Text_Formatting
 3. https://en.wikibooks.org/wiki/LaTeX/Paragraph_Formatting
 
-### Margins
+### Geometry
+(Use for editing document dimensions)
 
-https://www.overleaf.com/learn/latex/Page_size_and_margins
+https://ctan.org/pkg/geometry
+
+https://mirror.math.princeton.edu/pub/CTAN/macros/latex/contrib/geometry/geometry.pdf
 
 Can create different format packages based on personal document specifications.
 
 ### format_0.sty
+
+
 
