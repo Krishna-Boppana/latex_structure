@@ -4,9 +4,7 @@
 ## Editors
 
 Examples:
-1. IntelliJ
-2. Sublime
-3. VIM
+IntelliJ , Sublime, VIM etc.
 
 ### LaTex w/ IntelliJ
 
@@ -14,6 +12,13 @@ Examples:
 
 https://github.com/Hannah-Sten/TeXiFy-IDEA
 
+TexiFy Documentation
+
+https://github.com/Hannah-Sten/TeXiFy-IDEA/wiki/Features
+
+### IntelliJ Live-Templates
+
+## Custom Folders and 
 
 
 
