@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.15)  19 JUN 2022 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.15)  19 JUN 2022 22:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,27 +439,29 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4148C8C4CF62663F2CEAA1BCC99D5895;221.
  ) 
 Here is how much of TeX's memory you used:
- 9314 strings out of 478994
- 135613 string characters out of 5858184
- 442972 words of memory out of 5000000
- 26489 multiletter control sequences out of 15000+600000
- 410312 words of font info for 56 fonts, out of 8000000 for 9000
+ 9320 strings out of 478994
+ 135667 string characters out of 5858184
+ 444021 words of memory out of 5000000
+ 26494 multiletter control sequences out of 15000+600000
+ 410613 words of font info for 57 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  116i,6n,116p,242b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
 Output written on /Users/krishna/latex_structure/testing_texmf/out/main.pdf (5 
-pages, 78758 bytes).
+pages, 93331 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
