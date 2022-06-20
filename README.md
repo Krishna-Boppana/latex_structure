@@ -69,4 +69,8 @@ https://ctan.org/pkg/amsthm
 ### aomart
 https://ctan.org/pkg/aomart
 
+## Features to Include:
 
+```
+\tableofcontents
+```
