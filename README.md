@@ -69,8 +69,29 @@ https://ctan.org/pkg/amsthm
 ### aomart
 https://ctan.org/pkg/aomart
 
+
+
+
 ## Features to Include:
 
+### Title
+
+https://en.wikibooks.org/wiki/LaTeX/Title_Creation
+
+```
+\title{...}
+\author{...}
+\date{...}
+
+\begin{document}
+
+\maketitle
+
+\end{document}
+
+```
+
+### Table of Contents
 ```
 \tableofcontents
 ```
