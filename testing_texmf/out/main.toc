@@ -1,4 +1,4 @@
-\contentsline {chapter}{\tocchapter {Chapter}{1}{Test}}{3}{chapter.1}%
-\contentsline {section}{\tocsection {}{1}{First}}{3}{section.1.1}%
-\contentsline {subsection}{\tocsubsection {}{1.1}{Second}}{3}{subsection.1.1.1}%
-\contentsline {subsubsection}{\tocsubsubsection {}{1.1.1}{Third}}{3}{subsubsection.1.1.1.1}%
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Test}}{5}{chapter.1}%
+\contentsline {section}{\tocsection {}{1}{First}}{5}{section.1.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{Second}}{5}{subsection.1.1.1}%
+\contentsline {subsubsection}{\tocsubsubsection {}{1.1.1}{Third}}{5}{subsubsection.1.1.1.1}%
