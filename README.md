@@ -72,7 +72,19 @@ https://ctan.org/pkg/aomart
 
 
 
-## Features to Include:
+## Features to Consider:
+
+### Bookstructure vs Aritcle Structre 
+
+Examples
+
+```
+\documentclass{amsbook}
+```
+
+```
+\documentclass{amsart}
+```
 
 ### Title
 
