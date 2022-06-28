@@ -4,10 +4,14 @@
 \usepackage{enumitem}
 
 
-% Prevent paragraph indent
-\setlist{noitemsep}
-\setlist{labelindent=\parindent} % < Usually a good idea
-\setlist{left = 0pt}
 
-% Change numbering from (1),(2),(3) to 1., 2., 3.
-\setlist{label = \arabic*.,}
+\setlist{
+    % Prevent paragraph indent
+    leftmargin = *,
+    % Change numbering from (1),(2),(3) to 1., 2., 3.
+    label = \arabic*.
+}
+
+
+
+
